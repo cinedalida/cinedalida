@@ -3,11 +3,6 @@
 I'm interested in coding, technology, multimedia, and design. <br/>
 I love working on projects that combine software development, databases, and creative design to build innovative solutions.
 
-🌱 Currently Learning: <br/>
-Frameworks: React, other JavaScript frameworks <br/>
-Languages: PHP, JavaScript <br/>
-Topics: API development, database design, advanced JavaScript concepts <br/>
-
 📫 Let's Connect!<br/>
 Feel free to check out my repositories and collaborate!
 
