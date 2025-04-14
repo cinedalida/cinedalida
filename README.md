@@ -1,9 +1,16 @@
-## 👋 Hello! I'm Cine!
+# 👋 Hello! I'm Cine!
 
-I'm interested in coding, technology, multimedia, and design. <br/>
-I love working on projects that combine software development, databases, and creative design to build innovative solutions.
+## Interests & Hobbies <br/>
+💻 Programming and web development <br/>
+🎨 Creating digital and traditional art <br/>
+🎥 Film and video editing
 
-📫 Let's Connect!<br/>
+## Current Side Quests: <br/>
+👾 freeCodeCamp <br/>
+🚗 **La Spot!** - DLSUD Parking System <br/>
+🤖 Exploring **AI integration**
+
+## 📫 Let's Connect!<br/>
 Feel free to check out my repositories and collaborate!
 
 
