@@ -10,7 +10,7 @@
 🚗 **La Spot!** - DLSUD Parking System <br/>
 🤖 Exploring **AI integration**
 
-## 📫 Let's Connect!<br/>
+## Let's Connect!<br/>
 Feel free to check out my repositories and collaborate!
 
 
