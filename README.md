@@ -9,7 +9,7 @@
 👾 freeCodeCamp <br/>
 🚗 **La Spot!** - DLSUD Parking System <br/>
 🤖 Exploring **AI integration** <br/>
-📶 **API integration**
+🔌 Plugging in **APIs**
 
 ## Let's Connect!<br/>
 Feel free to check out my repositories and collaborate!
