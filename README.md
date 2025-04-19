@@ -8,7 +8,8 @@
 ## Current Side Quests: <br/>
 👾 freeCodeCamp <br/>
 🚗 **La Spot!** - DLSUD Parking System <br/>
-🤖 Exploring **AI integration**
+🤖 Exploring **AI integration** <br/>
+📶 **API integration**
 
 ## Let's Connect!<br/>
 Feel free to check out my repositories and collaborate!
