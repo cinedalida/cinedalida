@@ -52,13 +52,9 @@ Feel free to check out my repositories and collaborate!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
         <br>React
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45" height="45" alt="Bootstrap" />
+      <td align="center" width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="45" height="45" />
         <br>Bootstrap
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="Tailwind CSS" />
-        <br>Tailwind CSS
       </td>
     </tr>
     <tr>
@@ -71,7 +67,7 @@ Feel free to check out my repositories and collaborate!
         <br>SQLite
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="45" height="45" alt="Canva" />
+        <img src="https://static.vecteezy.com/system/resources/previews/032/329/173/non_2x/canva-icon-logo-symbol-free-png.png" alt="Canva" width="45" height="45" alt="Canva" />
         <br>Canva
       </td>
       <td align="center" width="100">
@@ -79,16 +75,16 @@ Feel free to check out my repositories and collaborate!
         <br>Figma
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Clip_Studio_Paint_Logo.svg" width="45" height="45" alt="Clip Studio Paint" />
-        <br>Clip Studio
+        <img src="https://upload.wikimedia.org/wikipedia/en/6/66/Clip_Studio_Paint_app_logo.png" alt="Clip Studio Paint" width="45" height="45" />
+        <br>CSP
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-        <br>GitHub
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="45" height="45" />
+        <br>VS Code
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="45" height="45" alt="Notion" />
@@ -101,7 +97,7 @@ Feel free to check out my repositories and collaborate!
         <br>Steam
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Adobe_Creative_Cloud.svg" width="45" height="45" alt="Creative Cloud" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" alt="Adobe Creative Cloud" width="45" height="45" />
         <br>Creative Cloud
       </td>
       <td align="center" width="100">
@@ -109,7 +105,7 @@ Feel free to check out my repositories and collaborate!
         <br>Illustrator
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" width="45" height="45" alt="Lightroom" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Adobe Lightroom" width="45" height="45" />
         <br>Lightroom
       </td>
       <td align="center" width="100">
@@ -121,7 +117,11 @@ Feel free to check out my repositories and collaborate!
         <br>After Effects
       </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/aseprite.ico" width="45" height="45" alt="Aseprite" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/2048px-Wondershare_filmora_logo.svg.png" alt="Wondershare Filmora" width="45" height="45" />
+        <br>Filmora
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/800px-Logo_Aseprite.svg.png" alt="Aseprite" width="45" height="45" />
         <br>Aseprite
       </td>
     </tr>
@@ -129,12 +129,11 @@ Feel free to check out my repositories and collaborate!
 </div>
 
 
-
-
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cinedalida&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center"><samp>📊 GitHub Stats</samp></h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=cinedalida&theme=github_dark&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 
