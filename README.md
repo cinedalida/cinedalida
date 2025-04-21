@@ -7,7 +7,7 @@
 
 ## Current Side Quests: <br/>
 👾 freeCodeCamp <br/>
-🚗 **La Spot!** - DLSUD Parking System <br/>
+🚗 **La Spot!** - DLSU-D Parking System <br/>
 🤖 Exploring **AI integration** <br/>
 🔌 Plugging in **APIs**
 
