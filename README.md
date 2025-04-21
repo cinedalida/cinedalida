@@ -84,7 +84,7 @@ Feel free to check out my repositories and collaborate!
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="45" height="45" />
-        <br>VS Code
+        <br>VsCode
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="45" height="45" alt="Notion" />
