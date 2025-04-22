@@ -20,7 +20,7 @@ Feel free to check out my repositories and collaborate!
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pan_ching) 
 
 <!-- Technologies -->
-<h3 align="center"><samp>💻 Technologies I Use</samp></h3>
+<h3 align="center"><samp>💻 Technologies</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
