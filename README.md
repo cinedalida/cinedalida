@@ -67,18 +67,6 @@ Feel free to check out my repositories and collaborate!
         <br>SQLite
       </td>
       <td align="center" width="100">
-        <img src="https://static.vecteezy.com/system/resources/previews/032/329/173/non_2x/canva-icon-logo-symbol-free-png.png" alt="Canva" width="45" height="45" alt="Canva" />
-        <br>Canva
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/en/6/66/Clip_Studio_Paint_app_logo.png" alt="Clip Studio Paint" width="45" height="45" />
-        <br>CSP
-      </td>
-      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
         <br>Git
       </td>
@@ -87,8 +75,20 @@ Feel free to check out my repositories and collaborate!
         <br>VsCode
       </td>
       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="45" height="45" alt="Notion" />
         <br>Notion
+      </td>
+      <td align="center" width="100">
+        <img src="https://static.vecteezy.com/system/resources/previews/032/329/173/non_2x/canva-icon-logo-symbol-free-png.png" alt="Canva" width="45" height="45" alt="Canva" />
+        <br>Canva
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/en/6/66/Clip_Studio_Paint_app_logo.png" alt="Clip Studio Paint" width="45" height="45" />
+        <br>CSP
       </td>
     </tr>
     <tr>
