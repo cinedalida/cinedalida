@@ -5,7 +5,7 @@
 🎨 Creating digital and traditional art <br/>
 🎥 Film and video editing
 
-## Current Side Quests: <br/>
+## Current Side Quests <br/>
 👾 freeCodeCamp <br/>
 🚗 **La Spot!** - DLSU-D Parking System <br/>
 🤖 Exploring **AI integration** <br/>
