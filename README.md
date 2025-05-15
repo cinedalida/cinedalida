@@ -96,8 +96,8 @@ Feel free to check out my repositories and collaborate!
         <br>CSP
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" alt="Adobe Creative Cloud" width="45" height="45" />
-        <br>Creative Cloud
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/g/github-icon-2.svg" alt="GitHub" width="45" height="45" />
+        <br>GitHub
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45" height="45" alt="Illustrator" />
