@@ -92,8 +92,8 @@ Feel free to check out my repositories and collaborate!
     </tr>
     <tr>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="45" height="45" alt="Steam" />
-        <br>Steam
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="45" height="45" alt="Vite" />
+        <br>Vite
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" alt="Adobe Creative Cloud" width="45" height="45" />
