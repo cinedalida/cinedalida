@@ -8,7 +8,7 @@
 ## Current Side Quests <br/>
 👾 freeCodeCamp <br/>
 🚗 **La Spot!** - DLSU-D Parking System <br/>
-🤖 Exploring **AI integration** <br/>
+🤖 Exploring **AI integration, Automation, AI Agents**  <br/>
 🔌 Plugging in **APIs**
 
 ## Let's Connect!<br/>
