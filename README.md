@@ -7,7 +7,7 @@
 
 ## Current Side Quests <br/>
 👾 freeCodeCamp <br/>
-🚗 **La Spot!** - DLSU-D Parking System <br/>
+👩‍🍳 **CookingIna** - mga recipe ng ina mo! <br/>
 🤖 Exploring **AI integration, Automation, AI Agents**  <br/>
 🔌 Plugging in **APIs**
 
