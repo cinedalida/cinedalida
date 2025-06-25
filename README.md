@@ -9,7 +9,6 @@
 👾 freeCodeCamp <br/>
 👩‍🍳 **CookingIna** - mga recipe ng ina mo! <br/>
 🤖 Exploring **AI integration, Automation, AI Agents**  <br/>
-🔌 Plugging in **APIs**
 
 ## Let's Connect!<br/>
 Feel free to check out my repositories and collaborate!
