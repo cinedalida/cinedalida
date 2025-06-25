@@ -24,18 +24,6 @@ Feel free to check out my repositories and collaborate!
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
         <br>HTML
       </td>
@@ -44,53 +32,81 @@ Feel free to check out my repositories and collaborate!
         <br>CSS
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS" />
-        <br>NodeJS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS" />
+        <br>TailwindCSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="45" />
+        <br>Bootstrap
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
         <br>React
       </td>
-      <td align="center" width="80">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="45" height="45" />
-        <br>Bootstrap
+     <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="45" height="45" alt="Vite" />
+        <br>Vite
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+        <br>Figma
       </td>
     </tr>
     <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+        <br>Python
+      </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
         <br>MySQL
       </td>
       <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite" />
-        <br>SQLite
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS" />
+        <br>NodeJS
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" />
+        <br>Firebase
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/g/github-icon-2.svg" alt="GitHub" width="45" height="45" />
+        <br>GitHub
+      </td>
+      <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="45" height="45" />
         <br>VsCode
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-        <br>Figma
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ" />
+        <br>IntelliJ
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="45" height="45" alt="Vite" />
-        <br>Vite
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="45" height="45" alt="NetBeans" />
+        <br>NetBeans
       </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/g/github-icon-2.svg" alt="GitHub" width="45" height="45" />
-        <br>GitHub
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-plain.svg" width="45" height="45" alt="Eclipse" />
+        <br>Eclipse
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="45" height="45" alt="Notion" />
         <br>Notion
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/en/6/66/Clip_Studio_Paint_app_logo.png" alt="Clip Studio Paint" width="45" height="45" />
         <br>CSP
@@ -100,24 +116,8 @@ Feel free to check out my repositories and collaborate!
         <br>Canva
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45" height="45" alt="Illustrator" />
-        <br>Illustrator
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Adobe Lightroom" width="45" height="45" />
-        <br>Lightroom
-      </td>
-      <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45" height="45" alt="Photoshop" />
         <br>Photoshop
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="45" height="45" alt="After Effects" />
-        <br>After Effects
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/2048px-Wondershare_filmora_logo.svg.png" alt="Wondershare Filmora" width="45" height="45" />
-        <br>Filmora
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/800px-Logo_Aseprite.svg.png" alt="Aseprite" width="45" height="45" />
@@ -126,6 +126,7 @@ Feel free to check out my repositories and collaborate!
     </tr>
   </table>
 </div>
+
 
 
 <h3 align="center"><samp>📊 GitHub Stats</samp></h3>
