@@ -99,8 +99,8 @@ Feel free to check out my repositories and collaborate!
         <br>NetBeans
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-plain.svg" width="45" height="45" alt="Eclipse" />
-        <br>Eclipse
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" alt="Tableau" />
+        <br>Tableau
       </td>
       <td align="center" width="100">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png" alt="Postman" width="45" height="45" alt="Canva" />
