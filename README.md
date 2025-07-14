@@ -7,7 +7,7 @@
 
 ## Current Side Quests <br/>
 👾 freeCodeCamp <br/>
-👩‍🍳 **CookingIna** - mga recipe ng ina mo! <br/>
+👩‍🍳 **CooKween** - mga recipe ng ina mo! <br/>
 🤖 Exploring **AI integration, Automation, AI Agents**  <br/>
 🤗 Hugging Face, TensorFlow, Kaggle
 
@@ -130,10 +130,19 @@ Feel free to check out my repositories and collaborate!
 
 
 <h3 align="center"><samp>📊 GitHub Stats</samp></h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cinedalida&theme=github_dark&hide_border=true" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" src="https://github-readme-stats.vercel.app/api?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img width="300" src="https://nirzak-streak-stats.vercel.app/?user=cinedalida&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinedalida&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
